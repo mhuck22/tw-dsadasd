@@ -218,3 +218,6 @@ Run `pnpm run dev` to start the development server. This will:
 ## License
 
 MIT
+
+
+<img width="1194" height="738" alt="image" src="https://github.com/user-attachments/assets/babf0788-0f07-44c4-aa5f-e359d6a76b71" />
